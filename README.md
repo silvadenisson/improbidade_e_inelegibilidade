@@ -9,4 +9,4 @@ O script foi desenvolvido em liguagem R, sendo necessário os pacotes "XML" e "R
 
 O objetivo inicial foi coletar dados sobre improbidade administrativa no Brasil para desenvolver a minha dissertação de Mestrado em Sociologia pela Universidade Federal de Alagoas.
 
-A dissertação foi defendida no dia 15 de dezembro de 2014. Com o titulo: Improbidade Administrativa no Brasil: Uma análise de _output_. 
+A dissertação foi defendida no dia 15 de dezembro de 2014. Com o titulo: **Improbidade Administrativa no Brasil: Uma análise de _output_.** 
