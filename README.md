@@ -4,4 +4,4 @@ O script coleta informações sobre os processos de improbidade administrativa a
 
 Autor:[DenissonSilVa](http://www.denissonsilva.com)
 
-O script foi feito em liguagem R, sendo necessário os pacotes "XML" e "RCurl"
+O script foi desenvolvido em liguagem R, sendo necessário os pacotes "XML" e "RCurl"
